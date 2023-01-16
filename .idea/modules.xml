@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/recursive_fuction_content2/recursive_fuction_content2.iml" filepath="$PROJECT_DIR$/recursive_fuction_content2/recursive_fuction_content2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_fuction_gugudan/recursive_fuction_gugudan.iml" filepath="$PROJECT_DIR$/recursive_fuction_gugudan/recursive_fuction_gugudan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/recursive_function.iml" filepath="$PROJECT_DIR$/.idea/recursive_function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_1/recursive_function_1.iml" filepath="$PROJECT_DIR$/recursive_function_1/recursive_function_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_and/recursive_function_and.iml" filepath="$PROJECT_DIR$/recursive_function_and/recursive_function_and.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_arrLength/recursive_function_arrLength.iml" filepath="$PROJECT_DIR$/recursive_function_arrLength/recursive_function_arrLength.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_arrProduct/recursive_function_arrProduct.iml" filepath="$PROJECT_DIR$/recursive_function_arrProduct/recursive_function_arrProduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_arrSum/recursive_function_arrSum.iml" filepath="$PROJECT_DIR$/recursive_function_arrSum/recursive_function_arrSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_drop/recursive_function_drop.iml" filepath="$PROJECT_DIR$/recursive_function_drop/recursive_function_drop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_factorial/recursive_function_factorial.iml" filepath="$PROJECT_DIR$/recursive_function_factorial/recursive_function_factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_factorial2/recursive_function_factorial2.iml" filepath="$PROJECT_DIR$/recursive_function_factorial2/recursive_function_factorial2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_fibonacci/recursive_function_fibonacci.iml" filepath="$PROJECT_DIR$/recursive_function_fibonacci/recursive_function_fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_isOdd/recursive_function_isOdd.iml" filepath="$PROJECT_DIR$/recursive_function_isOdd/recursive_function_isOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_or/recursive_function_or.iml" filepath="$PROJECT_DIR$/recursive_function_or/recursive_function_or.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_reverseArr/recursive_function_reverseArr.iml" filepath="$PROJECT_DIR$/recursive_function_reverseArr/recursive_function_reverseArr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_sumTo/recursive_function_sumTo.iml" filepath="$PROJECT_DIR$/recursive_function_sumTo/recursive_function_sumTo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursive_function_take/recursive_function_take.iml" filepath="$PROJECT_DIR$/recursive_function_take/recursive_function_take.iml" />
+    </modules>
+  </component>
+</project>
